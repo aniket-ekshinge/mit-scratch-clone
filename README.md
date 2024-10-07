@@ -11,7 +11,6 @@
 
 > All drag-and-drop functionalities corresponding to these animations are implemented similarly to the Scratch app.
 
-[Video Demonstration](https://github.com/user-attachments/assets/41ca41a8-b8ce-4acc-8a06-ea36c5b76584)
 
 ### 2. Multiple Sprites Support
 
@@ -19,13 +18,11 @@
 - **Animations Availability**: All Sprites will have all the animations available.
 - **Play button**: Start the animations for all sprites at the same time when the play button is clicked.
 
-[Video Demonstration](https://github.com/user-attachments/assets/20a96cf6-3fee-4eb1-b95b-1119deb6880a)
 
 ### 3. Hero Feature - Collision-Based Animation Swap
 
 - **Collision-based animation swap**: A "Hero Feature" that triggers animation swapping when two sprites collide during the animation process.
 
-[Video Demonstration](https://github.com/user-attachments/assets/71cd60b8-24d8-4bb1-84b3-82e3b07857d2)
 
 
 ---
