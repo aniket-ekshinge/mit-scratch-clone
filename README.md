@@ -1,4 +1,6 @@
-# Sprite Animation Project
+# MIT Scratch Clone Project
+
+Netlify link - https://scratch-clone-aniket.netlify.app/
 
 ## Features Implemented
 
